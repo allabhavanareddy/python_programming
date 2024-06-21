@@ -1,0 +1,6 @@
+'''
+---a---
+--aba--
+-abcba-
+abcdcba'''
+
